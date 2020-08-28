@@ -10,6 +10,11 @@
     }
 </script>
 
-<style lang="less" scoped>
-
+<style scoped lang="less" >
+.wrap{
+    background:#f00;
+    li{
+      list-style: none;
+    }
+  }
 </style>
